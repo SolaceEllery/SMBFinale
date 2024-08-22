@@ -1,0 +1,13 @@
+--[[
+    WARNING
+
+    This file is used for grabbing variables from Lua in the game, and writing them to this file for reading them in the loadscreen environment.
+
+    DO NOT DELETE OR MODIFY THIS FILE YOURSELF! I don't think you should edit this file unless you know what you're doing (Or if you're Spencerly, which is me obviously)
+]]
+
+resolutionWidth:
+1066
+
+resolutionHeight:
+600
